@@ -40,7 +40,9 @@ int main(int argc, char** argv) {
 		default:
 			printf("Operador invalido: \n");
 	} 
+	printf("opa");
 
+	printf("opa novamente");
     return 0;    
 } 
 
