@@ -42,6 +42,7 @@ int main(int argc, char** argv) {
 	} 
 	printf("opa");
 
+	printf("opa novamente");
     return 0;    
 } 
 
